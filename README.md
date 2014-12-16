@@ -8,4 +8,5 @@ sparrovv's homebrew formulas.
 brew tap sparrovv/tap
 
 brew install gotr
+brew install vegeta # https://github.com/tsenart/vegeta
 ```
